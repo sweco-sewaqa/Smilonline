@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="6f1c818a-fb02-4529-9a17-c8ea786efb9f" 
+        solutionId="6f1c818a-fb02-4529-9a17-c8ea786efb9f" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SmilOnline"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="5886b1a5-abf0-4c9d-9bb4-a466894f9ef0" />
+  </features>
+</package>

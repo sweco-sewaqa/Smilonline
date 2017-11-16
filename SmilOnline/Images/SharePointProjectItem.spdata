@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Images\" Type="ElementManifest" />
+    <ProjectItemFile Source="sweco_logo.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="App_icon.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="logotype.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="marker.png" Target="Images\" Type="ElementFile" />
+    <ProjectItemFile Source="favicon.ico" Target="Images\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

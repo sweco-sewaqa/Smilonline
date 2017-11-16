@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Fonts\" Type="ElementManifest" />
+    <ProjectItemFile Source="glyphicons-halflings-regular.eot" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="glyphicons-halflings-regular.svg" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="glyphicons-halflings-regular.ttf" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="glyphicons-halflings-regular.woff" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="map.eot" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="map.svg" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="map.ttf" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="map.woff" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-italic.eot" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-italic.svg" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-italic.ttf" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-italic.woff" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-regular.eot" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-regular.svg" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-regular.ttf" Target="Fonts\" Type="ElementFile" />
+    <ProjectItemFile Source="opensans-regular.woff" Target="Fonts\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

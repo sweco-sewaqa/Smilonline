@@ -1,0 +1,81 @@
+{
+    "target": "map",
+    "layers": [{
+        "type": "Tile",
+        "name": "Sverigekarta",
+        "source": {
+            "type": "Stamen",
+            "layer": "watercolor"
+        },
+        "metadata": {
+            "legend":{
+                "url": "http://www.iobis.org:8080/geoserver/wms?TRANSPARENT=true&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetLegendGraphic&EXCEPTIONS=application%2Fvnd.ogc.se_xml&FORMAT=image%2Fgif&LAYER=OBIS%3Asummaries&style=summaries_n_rainbow"
+            }
+        }
+    }, {
+        "type": "Tile",
+        "name": "Terrängetiketter",
+        "source": {
+            "type": "Stamen",
+            "layer": "terrain-labels"
+        }
+    }, {
+        "type": "Vector",
+        "name": "Kartlager #1",
+        "source": {
+            "type": "GeoJSON",
+            "object": {
+                "type":"Feature",
+                "geometry":{
+                  "type":"Polygon",
+                  "coordinates":[
+                     [[2012319, 8254345], [2009472, 8250485], [2006969, 8254804], [2008956, 8257231], [2012319, 8254345]]
+                  ]
+                },
+                "properties": {
+                  "Kategori": "Testkat",
+                  "Test": "Test 2",
+                  "test_key": "Testvärde"
+                }
+              }
+        },
+        "metadata": {
+            "identify": true
+        },
+        "style": {
+            "fill": {
+                "color": "rgba(224, 60, 49, 0.2)" 
+            },
+            "stroke": {
+                "color": "rgba(224, 60, 49, 0.6)", 
+                "width": 2
+            }
+        }
+    }],
+    "view": {
+        "center": [2010752, 8252558],
+        "zoom": 13
+    },
+    "toolbar": {
+    },
+    "toc": {
+    },
+    "navbars": {
+        "north":{
+            "visible": true
+        },
+        "south": {
+            "visible": true
+        }
+    },
+    "print": {
+        "title": "Utskrift",
+        "srs": "EPSG:2400",
+        "units": "m",
+        "outputFilename": "utskrift",
+        "outputFormat": "pdf",
+        "dpi": 127,
+        "settingsUrl": "/print/pdf/info.json",
+        "createUrl": "/print/pdf/create.json"
+      }
+}

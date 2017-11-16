@@ -1,0 +1,6 @@
+C:\Projekt\smilonline\SmilOnline\bin\Debug\SmilOnline.pdb
+C:\Projekt\smilonline\SmilOnline\obj\Debug\SmilOnline.dll
+C:\Projekt\smilonline\SmilOnline\obj\Debug\SmilOnline.pdb
+C:\Users\sewaqa\Desktop\smilonline (20170831)\smilonline\SmilOnline\bin\Debug\SmilOnline.pdb
+C:\Users\sewaqa\Desktop\smilonline (20170831)\smilonline\SmilOnline\obj\Debug\SmilOnline.dll
+C:\Users\sewaqa\Desktop\smilonline (20170831)\smilonline\SmilOnline\obj\Debug\SmilOnline.pdb

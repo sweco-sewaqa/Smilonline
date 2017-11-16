@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Fonts">
+    <File Path="Fonts\glyphicons-halflings-regular.eot" Url="Fonts/glyphicons-halflings-regular.eot" ReplaceContent="TRUE" />
+    <File Path="Fonts\glyphicons-halflings-regular.svg" Url="Fonts/glyphicons-halflings-regular.svg" ReplaceContent="TRUE" />
+    <File Path="Fonts\glyphicons-halflings-regular.ttf" Url="Fonts/glyphicons-halflings-regular.ttf" ReplaceContent="TRUE" />
+    <File Path="Fonts\glyphicons-halflings-regular.woff" Url="Fonts/glyphicons-halflings-regular.woff" ReplaceContent="TRUE" />
+    <File Path="Fonts\map.eot" Url="Fonts/map.eot" ReplaceContent="TRUE" />
+    <File Path="Fonts\map.svg" Url="Fonts/map.svg" ReplaceContent="TRUE" />
+    <File Path="Fonts\map.ttf" Url="Fonts/map.ttf" ReplaceContent="TRUE" />
+    <File Path="Fonts\map.woff" Url="Fonts/map.woff" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-italic.eot" Url="Fonts/opensans-italic.eot" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-italic.svg" Url="Fonts/opensans-italic.svg" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-italic.ttf" Url="Fonts/opensans-italic.ttf" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-italic.woff" Url="Fonts/opensans-italic.woff" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-regular.eot" Url="Fonts/opensans-regular.eot" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-regular.svg" Url="Fonts/opensans-regular.svg" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-regular.ttf" Url="Fonts/opensans-regular.ttf" ReplaceContent="TRUE" />
+    <File Path="Fonts\opensans-regular.woff" Url="Fonts/opensans-regular.woff" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

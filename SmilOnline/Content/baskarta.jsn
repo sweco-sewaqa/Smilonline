@@ -1,0 +1,41 @@
+{
+    "layers": [{
+        "type": "Tile",
+        "name": "Geo24.IO",
+        "source": {
+            "type": "XYZ",
+            "url":  "https://tiles.geo24.io/sweco-bright/{z}/{x}/{y}.png"
+        }
+    }],
+    "view": {
+        "center": [2152461, 10400495],
+        "zoom": 13
+    },
+    "toolbar": {
+    },
+    "toc": {
+    },
+    "navbars": {
+        "north":{
+            "visible": true
+        },
+        "south": {
+            "visible": true
+        }
+    },
+	"header": {
+      
+	  
+    },	
+	
+    "print": {
+        "title": "Utskrift",
+        "srs": "EPSG:2400",
+        "units": "m",
+        "outputFilename": "utskrift",
+        "outputFormat": "pdf",
+        "dpi": 127,
+        "settingsUrl": "/print/pdf/info.json",
+        "createUrl": "/print/pdf/create.json"
+      }
+}

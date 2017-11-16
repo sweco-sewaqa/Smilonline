@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Images">
+    <File Path="Images\sweco_logo.png" Url="Images/sweco_logo.png" ReplaceContent="TRUE" />
+    <File Path="Images\App_icon.png" Url="Images/App_icon.png" ReplaceContent="TRUE" />
+    <File Path="Images\logotype.png" Url="Images/logotype.png" ReplaceContent="TRUE" />
+    <File Path="Images\marker.png" Url="Images/marker.png" ReplaceContent="TRUE" />
+    <File Path="Images\favicon.ico" Url="Images/favicon.ico" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

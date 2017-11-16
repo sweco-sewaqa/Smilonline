@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App.js" Url="Scripts/App.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\Geometry.js" Url="Scripts/Geometry.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app1.js" Url="Scripts/app1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\App_icon.png" Url="Scripts/App_icon.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\App_icon.ico" Url="Scripts/App_icon.ico" ReplaceContent="TRUE" />
+    <File Path="Scripts\webpart.js" Url="Scripts/webpart.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\FullscreenWP.js" Url="Scripts/FullscreenWP.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
